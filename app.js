@@ -7,6 +7,7 @@
 var express = require('express'); // call express
 var app = express(); // define our app using express
 var bodyParser = require('body-parser');
+let http = require('http');
 
 // require config files and data
 let schools = require('./schools.json');
