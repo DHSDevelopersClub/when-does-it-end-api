@@ -61,5 +61,5 @@ app.listen(port);
 console.log('Magic happens on port ' + port);
 
 setInterval(function() {
-    http.get("http://<your app name>.herokuapp.com");
+    http.get("http://when-does-it-end-api.herokuapp.com");
 }, 300000); // every 5 minutes (300000)
