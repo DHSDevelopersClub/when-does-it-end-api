@@ -1,0 +1,222 @@
+[
+    {
+        "periods": [
+            {
+                "name": "1st",
+                "end": 528
+            },
+            {
+                "name": "2nd",
+                "end": 581
+            },
+            {
+                "name": "Break",
+                "end": 596
+            },
+            {
+                "name": "3rd",
+                "end": 649
+            },
+            {
+                "name": "Advisory",
+                "end": 668
+            },
+            {
+                "name": "4th",
+                "end": 721
+            },
+            {
+                "name": "Lunch",
+                "end": 761
+            },
+            {
+                "name": "5th",
+                "end": 814
+            },
+            {
+                "name": "6th",
+                "end": 867
+            },
+            {
+                "name": "7th",
+                "end": 920
+            },
+            {
+                "name": "Freedom",
+                "end": 920
+            }
+        ]
+    },
+    {
+        "periods": [
+            {
+                "name": "1st",
+                "end": 570
+            },
+            {
+                "name": "Break",
+                "end": 580
+            },
+            {
+                "name": "2nd",
+                "end": 680
+            },
+            {
+                "name": "Lunch",
+                "end": 720
+            },
+            {
+                "name": "5th",
+                "end": 815
+            },
+            {
+                "name": "Break",
+                "end": 825
+            },
+            {
+                "name": "7th",
+                "end": 920
+            },
+            {
+                "name": "Freedom",
+                "end": 920
+            }
+        ]
+    },
+    {
+        "periods": [
+            {
+                "name": "3rd",
+                "end": 570
+            },
+            {
+                "name": "Break",
+                "end": 585
+            },
+            {
+                "name": "Advisory",
+                "end": 600
+            },
+            {
+                "name": "Tutorial",
+                "end": 650
+            },
+            {
+                "name": "4th",
+                "end": 745
+            },
+            {
+                "name": "Lunch",
+                "end": 785
+            },
+            {
+                "name": "6th",
+                "end": 880
+            },
+            {
+                "name": "Freedom",
+                "end": 880
+            }
+        ]
+    },
+    {
+        "periods": [
+            {
+                "name": "1st",
+                "end": 570
+            },
+            {
+                "name": "Break",
+                "end": 580
+            },
+            {
+                "name": "2nd",
+                "end": 680
+            },
+            {
+                "name": "Lunch",
+                "end": 720
+            },
+            {
+                "name": "5th",
+                "end": 815
+            },
+            {
+                "name": "Break",
+                "end": 825
+            },
+            {
+                "name": "7th",
+                "end": 920
+            },
+            {
+                "name": "Freedom",
+                "end": 920
+            }
+        ]
+    },
+    {
+        "periods": [
+            {
+                "name": "3rd",
+                "end": 570
+            },
+            {
+                "name": "Break",
+                "end": 585
+            },
+            {
+                "name": "Advisory",
+                "end": 600
+            },
+            {
+                "name": "Tutorial",
+                "end": 650
+            },
+            {
+                "name": "4th",
+                "end": 745
+            },
+            {
+                "name": "Lunch",
+                "end": 785
+            },
+            {
+                "name": "6th",
+                "end": 880
+            },
+            {
+                "name": "Freedom",
+                "end": 880
+            }
+        ]
+    },
+    {
+        "periods": [
+            {
+                "name": "3rd",
+                "end": 565
+            },
+            {
+                "name": "Break",
+                "end": 580
+            },
+            {
+                "name": "4th",
+                "end": 665
+            },
+            {
+                "name": "Break",
+                "end": 680
+            },
+            {
+                "name": "6th",
+                "end": 765
+            },
+            {
+                "name": "Freedom",
+                "end": 765
+            }
+        ]
+    }
+]

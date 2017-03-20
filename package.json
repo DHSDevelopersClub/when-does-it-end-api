@@ -1,0 +1,24 @@
+{
+  "name": "when-does-it-end-api",
+  "version": "1.0.0",
+  "description": "The api service for the WhenDoesItEnd app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "karma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manmon42/when-does-it-end-api.git"
+  },
+  "author": "Max Starr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manmon42/when-does-it-end-api/issues"
+  },
+  "homepage": "https://github.com/manmon42/when-does-it-end-api#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}

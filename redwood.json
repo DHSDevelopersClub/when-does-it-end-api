@@ -1,0 +1,210 @@
+[
+  {
+    "periods": [
+      {
+        "name": "1st",
+        "end": 480
+      },
+      {
+        "name": "2nd",
+        "end": 530
+      },
+      {
+        "name": "Break",
+        "end": 575
+      },
+      {
+        "name": "3rd",
+        "end": 590
+      },
+      {
+        "name": "Advisory",
+        "end": 640
+      },
+      {
+        "name": "4th",
+        "end": 685
+      },
+      {
+        "name": "Lunch",
+        "end": 730
+      },
+      {
+        "name": "5th",
+        "end": 770
+      },
+      {
+        "name": "6th",
+        "end": 820
+      },
+      {
+        "name": "7th",
+        "end": 870
+      },
+      {
+        "name": "Freedom",
+        "end": 915
+      }
+    ]
+  },
+  {
+    "periods": [
+      {
+        "name": "1st",
+        "end": 480
+      },
+      {
+        "name": "2nd",
+        "end": 535
+      },
+      {
+        "name": "Break",
+        "end": 585
+      },
+      {
+        "name": "3rd",
+        "end": 600
+      },
+      {
+        "name": "4th",
+        "end": 655
+      },
+      {
+        "name": "Lunch",
+        "end": 705
+      },
+      {
+        "name": "5th",
+        "end": 750
+      },
+      {
+        "name": "6th",
+        "end": 805
+      },
+      {
+        "name": "7th",
+        "end": 860
+      },
+      {
+        "name": "Freedom",
+        "end": 910
+      }
+    ]
+  },
+  {
+    "periods": [
+      {
+        "name": "4th",
+        "end": 480
+      },
+      {
+        "name": "Break",
+        "end": 570
+      },
+      {
+        "name": "5th",
+        "end": 585
+      },
+      {
+        "name": "Lunch",
+        "end": 675
+      },
+      {
+        "name": "6th",
+        "end": 715
+      },
+      {
+        "name": "Break",
+        "end": 805
+      },
+      {
+        "name": "7th",
+        "end": 820
+      },
+      {
+        "name": "Freedom",
+        "end": 910
+      }
+    ]
+  },
+  {
+    "periods": [
+      {
+        "name": "1st",
+        "end": 480
+      },
+      {
+        "name": "SMART",
+        "end": 575
+      },
+      {
+        "name": "Break",
+        "end": 620
+      },
+      {
+        "name": "2nd",
+        "end": 635
+      },
+      {
+        "name": "Lunch",
+        "end": 725
+      },
+      {
+        "name": "3rd",
+        "end": 775
+      },
+      {
+        "name": "Faculty Meeting",
+        "end": 875
+      },
+      {
+        "name": "End",
+        "end": 930
+      }
+    ]
+  },
+  {
+    "periods": [
+      {
+        "name": "1st",
+        "end": 480
+      },
+      {
+        "name": "2nd",
+        "end": 535
+      },
+      {
+        "name": "Break",
+        "end": 585
+      },
+      {
+        "name": "3rd",
+        "end": 600
+      },
+      {
+        "name": "4th",
+        "end": 655
+      },
+      {
+        "name": "Lunch",
+        "end": 705
+      },
+      {
+        "name": "5th",
+        "end": 750
+      },
+      {
+        "name": "6th",
+        "end": 805
+      },
+      {
+        "name": "7th",
+        "end": 860
+      },
+      {
+        "name": "End",
+        "end": 910
+      }
+    ]
+  }
+]
