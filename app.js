@@ -44,7 +44,7 @@ router.get('/:school/:dayi', function (req, res) {
         })
     } else {
         let schedule = require('./' + req.params.school);
-        let day = schedule[req.params.dayi];
+        let day = schedule[req.params.dayi-1];
         res.json({
             data: day
         });
