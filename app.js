@@ -36,6 +36,10 @@ router.use(function (req, res, next) {
     next(); // make sure we go to the next routes and don't stop here
 });
 
+router.get('/schools', (req,res) => {
+    res.json(schools);
+})
+
 // test route to make sure everything is working (accessed at GET http://localhost:8080/api)
 router.get('/:school', function (req, res) {
     if(!schools.includes(req.params.school)){
